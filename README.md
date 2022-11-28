@@ -8,7 +8,7 @@
 
 - 💬 Ask me about HTML,CSS,JS,React.js,Node.js,Express,Sequelize,PostgreSQL
 
-- 📫 How to reach me briangleguizamon@gmauil.com
+- 📫 How to reach me briangleguizamon@gmail.com
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thundeck](https://github.com/Thundeck)
 
