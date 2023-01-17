@@ -8,16 +8,16 @@
 
 - 💬 Ask me about HTML,CSS,JS,React.js,Node.js,Express,Sequelize,PostgreSQL
 
-- 📫 How to reach me: 
+📫 How to reach me: 
 - [Email](mailto:briangleguizamon@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/thundeck/)
 - [whatsapp](https://wa.me/5493434381629)
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Thundeck?tab=repositories)
 
-- My proyects:
-- [BooKing](https://deploy-pf.vercel.app)
+My proyects:
 - [Pokedex PI](https://github.com/Thundeck/PI-Pokemon-main)
+- [BooKing](https://deploy-pf.vercel.app)(team: [arielniscola](https://github.com/arielniscola),[AlexisAraujo530](https://github.com/AlexisAraujo530),[maxiacunia](https://github.com/maxiacunia),[maestrejorge](https://github.com/maestrejorge),[braaidg](https://github.com/braaidg))
 
 
 ### Languages and Tools:
