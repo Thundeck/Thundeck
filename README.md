@@ -10,7 +10,7 @@
 
 - 📫 How to reach me briangleguizamon@gmail.com
 
-- 👨‍💻 All of my projects are available at [https://github.com/Thundeck](https://github.com/Thundeck)
+- 👨‍💻 All of my projects are available at [here](https://github.com/Thundeck?tab=repositories)
 
 
 ### Languages and Tools:
