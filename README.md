@@ -16,8 +16,8 @@
 - 👨‍💻 All of my projects are available [here](https://github.com/Thundeck?tab=repositories)
 
 -My proyects:
-[BooKing](https://deploy-pf.vercel.app)
-[Pokedex PI](https://github.com/Thundeck/PI-Pokemon-main)
+-[BooKing](https://deploy-pf.vercel.app)
+-[Pokedex PI](https://github.com/Thundeck/PI-Pokemon-main)
 
 
 ### Languages and Tools:
