@@ -17,11 +17,7 @@
 
 My proyects:
 - [Pokedex PI](https://github.com/Thundeck/PI-Pokemon-main)
-- [BooKing](https://deploy-pf.vercel.app)(Team: - [arielniscola](https://github.com/arielniscola)
-- [AlexisAraujo530](https://github.com/AlexisAraujo530)
-- [maxiacunia](https://github.com/maxiacunia)
-- [maestrejorge](https://github.com/maestrejorge)
-- [braaidg](https://github.com/braaidg))
+- [BooKing](https://deploy-pf.vercel.app)(Team: - [arielniscola](https://github.com/arielniscola) - [AlexisAraujo530](https://github.com/AlexisAraujo530) - [maxiacunia](https://github.com/maxiacunia) - [maestrejorge](https://github.com/maestrejorge) - [braaidg](https://github.com/braaidg))
 
 
 ### Languages and Tools:
