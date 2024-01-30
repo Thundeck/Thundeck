@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on personal proyects
 
-- 🌱 I’m currently learning Typescript and Angula
+- 🌱 I’m currently learning Python
 
-- 💬 Ask me about HTML,CSS,JS,React.js,Node.js,Express,Sequelize,PostgreSQL
+- 💬 Ask me about HTML,CSS,TailwindCSS,Javascript,Typescript,React.js,NextJs,Node.js,Express,Sequelize,PostgreSQL,MongoDB,Mongoose
 
 📫 How to reach me: 
 - [Email](mailto:briangleguizamon@gmail.com)
