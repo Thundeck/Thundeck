@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Python
 
-- 💬 Ask me about HTML,CSS,TailwindCSS,Javascript,Typescript,React.js,NextJs,Node.js,Express,Sequelize,PostgreSQL,MongoDB,Mongoose
+- 💬 Ask me about HTML, CSS, TailwindCSS, Javascript, Typescript, React.js, NextJs, Node.js, Express, Sequelize, PostgreSQL, MongoDB, Mongoose
 
 📫 How to reach me: 
 - [Email](mailto:briangleguizamon@gmail.com)
